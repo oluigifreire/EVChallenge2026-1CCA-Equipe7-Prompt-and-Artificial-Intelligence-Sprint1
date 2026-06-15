@@ -100,7 +100,7 @@ chargegrid-intelligence/
 
 ├── main.py
 ├── README.md
-└── assets/
+└── Chatbot_ChargeGrid_IA.ipynb
 ```
 
 ---
